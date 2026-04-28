@@ -1,0 +1,4 @@
+samtools
+bcftools
+minimap2
+ivar
