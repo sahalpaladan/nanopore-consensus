@@ -7,7 +7,7 @@ This application is deployed using Streamlit and allows users to upload sequenci
 ## Features
 
 - Upload **Reference FASTA**
-- Upload **Nanopore FASTQ**
+- Upload **Combined Nanopore FASTQ**
 - Upload **Primer BED**
 - Adjustable thread selection
 - Quality control using NanoPlot
@@ -63,3 +63,5 @@ Clone repository:
 ```bash
 git clone https://github.com/sahalpaladan/nanopore-consensus.git
 cd nanopore-consensus
+##Note
+Need to do each barcode seperately.
