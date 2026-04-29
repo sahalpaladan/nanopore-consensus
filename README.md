@@ -55,6 +55,11 @@ This application is deployed using Streamlit and allows users to upload sequenci
 - BCFtools
 
 ---
+##Note
+
+Need to do each barcode seperately.
+
+---
 
 ## Installation
 
@@ -63,5 +68,4 @@ Clone repository:
 ```bash
 git clone https://github.com/sahalpaladan/nanopore-consensus.git
 cd nanopore-consensus
-##Note
-Need to do each barcode seperately.
+
